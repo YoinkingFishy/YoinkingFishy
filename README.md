@@ -35,6 +35,14 @@ I build small, focused, production-grade tools and contribute to open source pro
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=transparent)
 
+## Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=flat&row=1&margin-w=10)
+
+## Contribution Activity
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=github-light)
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -63,8 +71,9 @@ I build small, focused, production-grade tools and contribute to open source pro
 - [parth-thakre/ai-data-center-research](https://github.com/parth-thakre/ai-data-center-research) — Fixed font loading consistency
 - [woshishadowhunter/oss-maintainer-copilot](https://github.com/woshishadowhunter/oss-maintainer-copilot) — Added duplicate/flaky/dependency/installation issue categories
 
-## Contact
+## Let's Connect
 
-- GitHub: [YoinkingFishy](https://github.com/YoinkingFishy)
-- Email: [wagdemehul@gmail.com](mailto:wagdemehul@gmail.com)
-- Organization: [KnockDesk](https://github.com/KnockDesk)
+[![GitHub followers](https://img.shields.io/github/followers/YoinkingFishy?label=GitHub&style=social)](https://github.com/YoinkingFishy)
+[![Total stars](https://img.shields.io/github/stars/YoinkingFishy?label=Total%20stars&style=flat&color=2ea44f)](https://github.com/YoinkingFishy?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-wagdemehul%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wagdemehul@gmail.com)
+[![Organization](https://img.shields.io/badge/Organization-KnockDesk-0072ff?style=flat)](https://github.com/KnockDesk)
