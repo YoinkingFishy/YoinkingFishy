@@ -27,6 +27,17 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=transparent)
 
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
 ### Skills
 
 **Languages:** TypeScript, JavaScript, Python, Rust  
