@@ -19,6 +19,14 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 | [vault-lite](https://github.com/YoinkingFishy/vault-lite) | Local-first encrypted secret manager | Python |
 | [csv-shuffler](https://github.com/YoinkingFishy/csv-shuffler) | Merge, sort, dedupe, sample CSV/TSV | Python |
 
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=transparent)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=transparent)
+
 ### Skills
 
 **Languages:** TypeScript, JavaScript, Python, Rust  
