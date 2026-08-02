@@ -1,8 +1,16 @@
-### Hi there, I'm Mehul Wagde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+# Mehul Wagde
 
-I'm a software engineer passionate about open source, AI/ML, and building reliable systems. I contribute to projects I find useful and interesting, and I build small, focused tools that I use every day.
+**Software Engineer | Open Source Contributor | AI/ML Enthusiast**
 
-### Projects
+India · [GitHub](https://github.com/YoinkingFishy) · [Email](mailto:wagdemehul@gmail.com) · [KnockDesk](https://github.com/KnockDesk)
+
+---
+
+## About
+
+I build small, focused, production-grade tools and contribute to open source projects I use every day. My work spans CLI tooling, data processing, developer tooling, and automation across Python, Go, TypeScript, and Bash — with an emphasis on zero-dependency, well-tested, documented software.
+
+## What I'm building
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -19,7 +27,7 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 | [vault-lite](https://github.com/YoinkingFishy/vault-lite) | Local-first encrypted secret manager | Python |
 | [csv-shuffler](https://github.com/YoinkingFishy/csv-shuffler) | Merge, sort, dedupe, sample CSV/TSV | Python |
 
-### GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=transparent)
 
@@ -27,7 +35,7 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=transparent)
 
-### Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -38,14 +46,14 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-### Skills
+## Skills
 
-**Languages:** TypeScript, JavaScript, Python, Rust  
-**Frameworks:** React, Next.js, Node.js, NestJS, FastAPI  
-**Tools:** Git, Docker, VS Code, OpenTelemetry  
-**Domains:** Open Source, AI/ML, Cybersecurity, Developer Tools
+**Languages:** TypeScript, JavaScript, Python, Rust, Bash
+**Frameworks:** React, Next.js, Node.js, NestJS, FastAPI
+**Tools:** Git, Docker, VS Code, OpenTelemetry, GitHub Actions
+**Domains:** Open Source, Developer Tools, Data Processing, CLI Applications
 
-### Recent Contributions
+## Open Source Contributions
 
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — Added `trace_content` parameter for programmatic content tracing control
 - [santifer/career-ops](https://github.com/santifer/career-ops) — Expanded FAQ with 7 common questions, documented global npm install path
@@ -54,3 +62,9 @@ I'm a software engineer passionate about open source, AI/ML, and building reliab
 - [Vero-protocol/vero-core-contracts](https://github.com/Vero-protocol/vero-core-contracts) — Fixed `ZERO_ADDRESS_STR` duplication
 - [parth-thakre/ai-data-center-research](https://github.com/parth-thakre/ai-data-center-research) — Fixed font loading consistency
 - [woshishadowhunter/oss-maintainer-copilot](https://github.com/woshishadowhunter/oss-maintainer-copilot) — Added duplicate/flaky/dependency/installation issue categories
+
+## Contact
+
+- GitHub: [YoinkingFishy](https://github.com/YoinkingFishy)
+- Email: [wagdemehul@gmail.com](mailto:wagdemehul@gmail.com)
+- Organization: [KnockDesk](https://github.com/KnockDesk)
