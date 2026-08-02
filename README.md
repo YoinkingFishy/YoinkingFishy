@@ -10,23 +10,6 @@ India · [GitHub](https://github.com/YoinkingFishy) · [Email](mailto:wagdemehul
 
 I build small, focused, production-grade tools and contribute to open source projects I use every day. My work spans CLI tooling, data processing, developer tooling, and automation across Python, Go, TypeScript, and Bash — with an emphasis on zero-dependency, well-tested, documented software.
 
-## What I'm building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [py-csv-toolkit](https://github.com/YoinkingFishy/py-csv-toolkit) | Zero-dependency CSV stats, filters, and merges | Python |
-| [markdown-toolbox](https://github.com/YoinkingFishy/markdown-toolbox) | TOC, tables, links, and frontmatter for Markdown | Python |
-| [go-http-probe](https://github.com/YoinkingFishy/go-http-probe) | HTTP endpoint health checks with JSON reports | Go |
-| [ts-utils](https://github.com/YoinkingFishy/ts-utils) | Dependency-free TypeScript utilities | TypeScript |
-| [env-tools](https://github.com/YoinkingFishy/env-tools) | Environment, PATH, and system inspection | Bash |
-| [shell-timer](https://github.com/YoinkingFishy/shell-timer) | Command and step timing for shell scripts | Bash |
-| [regex-playground](https://github.com/YoinkingFishy/regex-playground) | Regex matching, highlighting, and explanation | Python |
-| [todo-notebook](https://github.com/YoinkingFishy/todo-notebook) | Markdown-backed task tracker | Python |
-| [pipeline-builder](https://github.com/YoinkingFishy/pipeline-builder) | Validated shell pipeline definitions | Python |
-| [fmt-units](https://github.com/YoinkingFishy/fmt-units) | Human-friendly unit formatting | Python |
-| [vault-lite](https://github.com/YoinkingFishy/vault-lite) | Local-first encrypted secret manager | Python |
-| [csv-shuffler](https://github.com/YoinkingFishy/csv-shuffler) | Merge, sort, dedupe, sample CSV/TSV | Python |
-
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=transparent)
