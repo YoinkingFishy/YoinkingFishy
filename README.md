@@ -4,8 +4,6 @@
 
 India · [GitHub](https://github.com/YoinkingFishy) · [Email](mailto:wagdemehul@gmail.com) · [KnockDesk](https://github.com/KnockDesk)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2ea44f&center=true&vCenter=true&width=800&lines=Building+42+original+AI%2FML+projects+from+scratch;Agentic+AI+%7C+GenAI+%7C+Computer+Vision+%7C+ML;Every+repo+tested%2C+documented%2C+and+offline-first;Turning+ideas+into+working+software%2C+one+repo+at+a+time)](https://github.com/YoinkingFishy)
-
 ---
 
 ## About
