@@ -1,22 +1,14 @@
 # Mehul Wagde
 
-**AI/ML Engineer • Security Researcher • Open Source Builder**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,f472b6&height=120&section=header&text=Mehul%20Wagde&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&fontAlign=50" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=🚀+Offline-first+AI%2FML+systems;🔬+Red-team+toolkits+that+teach;📦+71+production-ready+repos;🧠+Curiosity-driven+development;⚡+Zero+fluff.+Maximum+impact." alt="Typing animation" />
-</p>
+**AI/ML Engineer · Security Researcher · Open Source Builder**
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Focus
 
 ```mermaid
 mindmap
-  root((Focus))
+  root((Mehul Wagde))
     AI/ML
       Agentic Pipelines
       Computer Vision
@@ -46,28 +38,25 @@ mindmap
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| **[market-insight](https://github.com/YoinkingFishy/market-insight)** | `Python` `LLM` `Agents` | 4-agent research pipeline: query → collect → analyze → report • Fully offline mode |
-| **[deepfake-detection](https://github.com/YoinkingFishy/deepfake-detection)** | `Python` `OpenCV` `sklearn` | Signal-physics features • No GPU/weights • 94%+ accuracy on benchmark |
-| **[synapse](https://github.com/YoinkingFishy/synapse)** | `Python` `Multi-LLM` | Router + local fallbacks • Deterministic, auditable, zero-config |
-| **[malware-analysis-platform](https://github.com/YoinkingFishy/malware-analysis-platform)** | `Python` `YARA` `PE` | 65 tests • YARA engine + PE parser + entropy + string deobfuscation |
-| **[quantum-resistant-encryption](https://github.com/YoinkingFishy/quantum-resistant-encryption)** | `Python` `Crypto` | Toy LWE KEM + Winternitz/Merkle signatures • Stdlib only |
-| **[self-hosted-shodan-clone](https://github.com/YoinkingFishy/self-hosted-shodan-clone)** | `Go` `SQLite` `Workers` | Distributed banner grabber • SQLite storage • REST API |
+| **[market-insight](https://github.com/YoinkingFishy/market-insight)** | `Python` `LLM` `Agents` | 4-agent research pipeline • Fully offline |
+| **[deepfake-detection](https://github.com/YoinkingFishy/deepfake-detection)** | `Python` `OpenCV` `sklearn` | Signal-physics features • No GPU • 94%+ |
+| **[synapse](https://github.com/YoinkingFishy/synapse)** | `Python` `Multi-LLM` | Router + local fallbacks • Zero-config |
+| **[malware-analysis-platform](https://github.com/YoinkingFishy/malware-analysis-platform)** | `Python` `YARA` `PE` | 65 tests • Engine + parser + entropy |
+| **[quantum-resistant-encryption](https://github.com/YoinkingFishy/quantum-resistant-encryption)** | `Python` `Crypto` | Toy LWE KEM + Winternitz/Merkle |
+| **[self-hosted-shodan-clone](https://github.com/YoinkingFishy/self-hosted-shodan-clone)** | `Go` `SQLite` | Distributed scanner • REST API |
 
 ---
 
-## 📊 GitHub Pulse
+## 📊 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Mehul%27s%20GitHub%20Stats)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=tokyonight&row=1&column=4&no-frame=true&margin-w=5&margin-h=5)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=89B4FA)
+![stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![trophies](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=tokyonight&row=1&column=4&no-frame=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -77,8 +66,6 @@ mindmap
 71 repos  •  30 security tools  •  42 AI/ML projects  •  0 fluff
 ```
 
-**Every project:** `README` • `requirements`/`go.mod` • `pytest`/`go test` • `python -m` CLI • Offline-first
-
 | Domain | Count | Example |
 |--------|-------|---------|
 | Agentic AI / LLM Apps | 11 | `multi-agentic-blog`, `doc-genius`, `synapse` |
@@ -86,6 +73,8 @@ mindmap
 | Classification / Regression | 14 | `arrhythmia-detection`, `gold-price-prediction` |
 | Security / Red Team | 30 | `exploit-development-framework`, `supply-chain-attack-simulator` |
 | Infra / Distributed | 8 | `dns-sinkhole`, `distributed-password-cracker` |
+
+**Every project:** `README` • `requirements`/`go.mod` • `pytest`/`go test` • `python -m` CLI • Offline-first
 
 ---
 
@@ -123,32 +112,28 @@ mindmap
 
 ---
 
-## 🤝 Open Source Contributions
+## 🤝 Open Source
 
-- **traceloop/openllmetry** — `trace_content` param for programmatic tracing
-- **saurabh-yergattikar/ShieldMCP** — Prompt injection patterns, benchmarks, attack mapping
-- **Vero-protocol/vero-core-contracts** — Fixed `ZERO_ADDRESS_STR` duplication
-- **woshishadowhunter/oss-maintainer-copilot** — Issue categorization (flaky/dep/install)
-- **santifer/career-ops** — FAQ expansion, npm global path docs
-- **younisdev/dyvix-ui** — `ValidateAndLoadJSON` typo fix
-- **parth-thakre/ai-data-center-research** — Font loading consistency
+- **traceloop/openllmetry** — `trace_content` param
+- **saurabh-yergattikar/ShieldMCP** — Prompt injection patterns, benchmarks
+- **Vero-protocol/vero-core-contracts** — `ZERO_ADDRESS_STR` fix
+- **woshishadowhunter/oss-maintainer-copilot** — Issue categorization
+- **santifer/career-ops** — FAQ expansion, npm docs
+- **younisdev/dyvix-ui** — Typo fix
+- **parth-thakre/ai-data-center-research** — Font loading
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=tokyonight&area=true&hide_border=true)
 
 ---
 
-> **Philosophy:** Build small. Ship complete. Test everything. Document for the next person. Stay offline-first.  
-> **All 71 repos public.** Made for learning, auditing, and extending.
+> **Build small. Ship complete. Test everything. Document for the next person. Stay offline-first.**  
+> **All 71 repos public.** Made for learning, auditing, extending.
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,f472b6&height=60&section=footer&animation=fadeIn" alt="Footer" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoinkingFishy&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
