@@ -29,7 +29,7 @@ mindmap
 
 ## 🔐 Cybersecurity Portfolio
 
-I've built **31 security tools** covering the full attack surface — from malware analysis to red-team simulations. All projects are fully tested, documented, and offline-first.
+I've built **70 security tools** covering the full attack surface — from malware analysis to red-team simulations. All projects are fully tested, documented, and offline-first.
 
 | Project | Stack | What It Does |
 |---------|-------|-------------|
@@ -38,9 +38,10 @@ I've built **31 security tools** covering the full attack surface — from malwa
 | **[llm-prompt-injection-firewall](https://github.com/YoinkingFishy/llm-prompt-injection-firewall)** | `Python` `FastAPI` | Firewall/mitigation for LLM apps detecting 20+ injection techniques (ignore-previous, jailbreaks, encoding) |
 | **[zero-day-vulnerability-scanner](https://github.com/YoinkingFishy/zero-day-vulnerability-scanner)** | `Python` | Vulnerability scanner with 12 plugins, CVSS scoring, fuzzing, and report generation |
 | **[exploit-development-framework](https://github.com/YoinkingFishy/exploit-development-framework)** | `Python` `Go` | Framework for exploit dev: cyclic patterns, offset finding, payload generation, crash analysis |
-| **[exploit-development-framework](https://github.com/YoinkingFishy/exploit-development-framework)** | `Python` `Go` | Framework for exploit dev: cyclic patterns, offset finding, payload generation, crash analysis |
+| **[supply-chain-attack-simulator](https://github.com/YoinkingFishy/supply-chain-attack-simulator)** | `Python` | Simulate supply-chain attacks: dependency confusion, typo-squatting, malicious PR injection |
+| **[self-hosted-shodan-clone](https://github.com/YoinkingFishy/self-hosted-shodan-clone)** | `Go` `SQLite` | Distributed scanner • REST API |
 
-> See all 31 security projects → [github.com/YoinkingFishy?tab=repositories&q=security](https://github.com/YoinkingFishy?tab=repositories)
+> See all 70 security projects → [github.com/YoinkingFishy?tab=repositories&q=security](https://github.com/YoinkingFishy?tab=repositories?q=security)
 
 ---
 
@@ -81,16 +82,16 @@ I've built **31 security tools** covering the full attack surface — from malwa
 ## 🏗️ What I Build
 
 ```
-71 repos  •  31 security tools  •  40 AI/ML projects  •  0 fluff
+131 repos  •  70 security tools  •  37 AI/ML projects  •  0 fluff
 ```
 
 | Domain | Count | Example |
 |--------|-------|---------|
-| Agentic AI / LLM Apps | 11 | `multi-agentic-blog`, `doc-genius`, `synapse` |
-| Computer Vision / Medical | 8 | `deepfake-detection`, `brain-tumor-detection` |
-| Classification / Regression | 14 | `arrhythmia-detection`, `gold-price-prediction` |
-| Security / Red Team | 31 | `exploit-development-framework`, `supply-chain-attack-simulator` |
-| Infra / Distributed | 8 | `dns-sinkhole`, `distributed-password-cracker` |
+| Agentic AI / LLM Apps | 8 | `multi-agentic-blog`, `doc-genius`, `synapse` |
+| Computer Vision / Medical | 11 | `deepfake-detection`, `brain-tumor-detection` |
+| Classification / Regression | 18 | `arrhythmia-detection`, `gold-price-prediction` |
+| Security / Red Team | 70 | `malware-analysis-platform`, `supply-chain-attack-simulator` |
+| Infra / Distributed | 11 | `dns-sinkhole`, `distributed-password-cracker` |
 
 **Every project:** `README` • `requirements`/`go.mod` • `pytest`/`go test` • `python -m` CLI • Offline-first
 
@@ -143,7 +144,7 @@ I've built **31 security tools** covering the full attack surface — from malwa
 ---
 
 > **Build small. Ship complete. Test everything. Document for the next person. Stay offline-first.**  
-> **All 71 repos public.** Made for learning, auditing, extending.
+> **118 public repos (+13 private).** Made for learning, auditing, extending.
 
 ---
 
