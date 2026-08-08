@@ -3,11 +3,11 @@
 **AI/ML Engineer • Security Researcher • Open Source Builder**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1500&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Building+offline-first+AI%2FML+systems;🔬+Crafting+red-team+toolkits+that+teach;📦+Shipping+71+production-ready+repos;🧠+Staying+curious.+Always.;⚡+Zero-fluff.+Maximum-impact." alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,f472b6&height=120&section=header&text=Mehul%20Wagde&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&fontAlign=50" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Python%2C+Go%2C+Rust%2C+TypeScript%2C+Lua;scikit-learn%2C+PyTorch%2C+OpenCV;YARA%2C+JWT%2C+Lattice+Crypto;React%2C+Docker%2C+K8s%2C+eBPF" alt="Tech stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=🚀+Offline-first+AI%2FML+systems;🔬+Red-team+toolkits+that+teach;📦+71+production-ready+repos;🧠+Curiosity-driven+development;⚡+Zero+fluff.+Maximum+impact." alt="Typing animation" />
 </p>
 
 ---
@@ -145,6 +145,10 @@ mindmap
 > **All 71 repos public.** Made for learning, auditing, and extending.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,8b5cf6,f472b6&height=60&section=footer&animation=fadeIn" alt="Footer" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoinkingFishy&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
