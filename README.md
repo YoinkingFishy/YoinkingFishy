@@ -1,6 +1,6 @@
 # Mehul Wagde
 
-**Software Engineer · Open Source Contributor · AI/ML Builder**
+**Software Engineer · Open Source Contributor · AI/ML Builder · Security Researcher**
 
 India · [GitHub](https://github.com/YoinkingFishy) · [Email](mailto:wagdemehul@gmail.com) · [KnockDesk](https://github.com/KnockDesk)
 
@@ -10,53 +10,65 @@ India · [GitHub](https://github.com/YoinkingFishy) · [Email](mailto:wagdemehul
 
 I build small, focused, production-grade tools and ship complete, original AI/ML projects — from agentic pipelines and GenAI apps to computer vision and classic machine learning. Every one of my AI projects is self-contained: deterministic, offline-runnable, tested with pytest, and fully documented.
 
+**New:** 30+ cybersecurity/red-team tools covering malware analysis, exploit development, supply chain simulation, network covert channels, post-quantum crypto, and more — all offline, educational, and zero-dependency.
+
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=transparent)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=tokyonight&hide_border=true)
 
 ## Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=flat&row=1&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=tokyonight&row=1&margin-w=10&no-frame=true)
 
 ## Contribution Activity
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=github-light)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=tokyonight&area=true)
 
 ---
 
-## Featured Projects
+## 🛡️ Cybersecurity / Red-Team Toolkit (30 New Projects)
 
-### [DeepFake Detection](https://github.com/YoinkingFishy/deepfake-detection)
-Detect generated vs. genuine images using signal-physics features — fully offline, no GPU, no weights to download.
-
-### [Market Insight](https://github.com/YoinkingFishy/market-insight)
-An agentic market research pipeline: query → collect → analyze → report, with a fully offline analysis mode.
-
-### [Multi-Agentic Blog](https://github.com/YoinkingFishy/multi-agentic-blog)
-A four-agent blog-writing pipeline (research → outline → draft → review) that works offline out of the box.
-
-### [DocGenius](https://github.com/YoinkingFishy/doc-genius)
-Ask questions over PDFs and documents: extraction, chunking, TF-IDF retrieval, and extractive answers — no keys required.
-
-### [Synapse](https://github.com/YoinkingFishy/synapse)
-Multi-provider conversational assistant with one router and per-provider local fallbacks.
-
-### [Brain Tumor Detection](https://github.com/YoinkingFishy/brain-tumor-detection)
-MRI-style image classification (tumor vs. no-tumor) with symmetry-aware features and a random forest.
-
-### [Movie Recommendation](https://github.com/YoinkingFishy/movie-recommendation)
-Content-based recommender (TF-IDF + cosine similarity) over a bundled catalogue of 150 films.
-
-### [Gold Price Prediction](https://github.com/YoinkingFishy/gold-price-prediction)
-Time-series regression on daily gold prices using lag and date-derived features.
+| Project | Description | Lang | Status |
+|---------|-------------|------|--------|
+| [malware-analysis-platform](https://github.com/YoinkingFishy/malware-analysis-platform) | YARA engine, PE parser, entropy analyzer, string deobfuscator — 65 tests | Python | ✅ |
+| [exploit-development-framework](https://github.com/YoinkingFishy/exploit-development-framework) | Pattern generation, crash parsing, payload generator, plugin system — 56 tests | Python | ✅ |
+| [supply-chain-security-analyzer](https://github.com/YoinkingFishy/supply-chain-security-analyzer) | Typosquat detection, license scanner, manifest parser | Go | ✅ |
+| [supply-chain-attack-simulator](https://github.com/YoinkingFishy/supply-chain-attack-simulator) | Dependency confusion & typo-squat simulation | Python | ✅ |
+| [cloud-security-compliance-dashboard](https://github.com/YoinkingFishy/cloud-security-compliance-dashboard) | AWS/Azure/GCP compliance checks (CIS/NIST/PCI-DSS) | Go | ✅ |
+| [subdomain-takeover-scanner](https://github.com/YoinkingFishy/subdomain-takeover-scanner) | DNS enumeration, dangling CNAME detection, fingerprinting | Go | ✅ |
+| [graphql-security-tester](https://github.com/YoinkingFishy/graphql-security-tester) | SDL parsing, depth/alias/duplicate analysis, introspection audit | Python | ✅ |
+| [mobile-app-security-analyzer](https://github.com/YoinkingFishy/mobile-app-security-analyzer) | AndroidManifest analysis, secret scanning, exported component audit | Python | ✅ |
+| [token-abuse-playground](https://github.com/YoinkingFishy/token-abuse-playground) | JWT decode/forge/verify, alg=none confusion, weak secret cracking | Python | ✅ |
+| [quantum-resistant-encryption](https://github.com/YoinkingFishy/quantum-resistant-encryption) | Toy lattice KEM (LWE) + hash-based signatures (Winternitz/Merkle) | Python | ✅ |
+| [network-covert-channel](https://github.com/YoinkingFishy/network-covert-channel) | DNS/ICMP/HTTP header steganography encoders/decoders | Python | ✅ |
+| [wireless-deauth-detector](https://github.com/YoinkingFishy/wireless-deauth-detector) | 802.11 deauth/disassoc frame parsing, flood detection | Python | ✅ |
+| [wifi-network-scanner](https://github.com/YoinkingFishy/wifi-network-scanner) | Beacon/probe parsing, RSN/WPA3 classification, channel mapping | Python | ✅ |
+| [phishing-domain-generator-quishing-scanner](https://github.com/YoinkingFishy/phishing-domain-generator-quishing-scanner) | Homoglyph/typosquat generation, QR/URL heuristic scoring | Python | ✅ |
+| [ssh-brute-force-detector](https://github.com/YoinkingFishy/ssh-brute-force-detector) | Auth log parser, burst/fan-out detection, severity scoring | Python | ✅ |
+| [ghost-on-the-wire](https://github.com/YoinkingFishy/ghost-on-the-wire) | ARP poisoning, trust mapping, vendor MAC resolution | Python | ✅ |
+| [lua-nginx-edge-backend](https://github.com/YoinkingFishy/lua-nginx-edge-backend) | OpenResty WAF, rate limiter, JWT validator, sanitizer (+ Python ref) | Lua/Python | ✅ |
+| [self-hosted-shodan-clone](https://github.com/YoinkingFishy/self-hosted-shodan-clone) | Distributed scanner, banner grabber, SQLite storage, HTTP API | Go | ✅ |
+| [chaos-engineering-security-tool](https://github.com/YoinkingFishy/chaos-engineering-security-tool) | Fault injection, safety controls, observability, reporting | Go | ✅ |
+| [payload-obfuscation-engine](https://github.com/YoinkingFishy/payload-obfuscation-engine) | Shellcode encoding, polymorphism, anti-emulation | Python | ✅ |
+| [privesc-playground](https://github.com/YoinkingFishy/privesc-playground) | Linux privilege escalation vectors, enumeration, exploitation | Python | ✅ |
+| [race-condition-exploiter](https://github.com/YoinkingFishy/race-condition-exploiter) | TOCTOU, symlink races, signal handler races | Python | ✅ |
+| [kernel-rootkit-detection](https://github.com/YoinkingFishy/kernel-rootkit-detection) | LKM/hidden process/module detection, syscall table integrity | Python | ✅ |
+| [distributed-password-cracker](https://github.com/YoinkingFishy/distributed-password-cracker) | Coordinated hashcat/john workers, keyspace distribution | Python | ✅ |
+| [dns-sinkhole](https://github.com/YoinkingFishy/dns-sinkhole) | RPZ-based sinkhole, blocklist management, query logging | Go | ✅ |
+| [llm-prompt-injection-firewall](https://github.com/YoinkingFishy/llm-prompt-injection-firewall) | Prompt injection classifier, jailbreak detection, output filter | Python | ✅ |
+| [advanced-persistent-threat-simulator](https://github.com/YoinkingFishy/advanced-persistent-threat-simulator) | Multi-stage kill chain, C2 simulation, lateral movement | Python | ✅ |
+| [adversarial-ml-attacker](https://github.com/YoinkingFishy/adversarial-ml-attacker) | FGSM/PGD/DeepFool attacks, robustness evaluation | Python | ✅ |
+| [autonomous-security-operations-center](https://github.com/YoinkingFishy/autonomous-security-operations-center) | SOAR playbooks, alert triage, automated response | Python | ✅ |
+| [zero-day-vulnerability-scanner](https://github.com/YoinkingFishy/zero-day-vulnerability-scanner) | Fuzzing harness, crash deduplication, exploitability scoring | Python | ✅ |
+| [blockchain-smart-contract-auditor](https://github.com/YoinkingFishy/blockchain-smart-contract-auditor) | Slither-style static analysis, reentrancy/overflow/access control | Python | ✅ |
 
 ---
 
-## AI/ML Portfolio — 42 Original Projects
+## 🤖 AI/ML Portfolio — 42 Original Projects
 
 Every project ships with a README, requirements, tests (`pytest`), and a `python -m` CLI.
 
@@ -124,30 +136,37 @@ Every project ships with a README, requirements, tests (`pytest`), and a `python
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 
 ## Skills
 
-**Languages:** Python, TypeScript, JavaScript, Go, Rust, Bash
-**ML/AI:** scikit-learn, NumPy, Pandas, OpenCV, Streamlit, Flask
-**Frameworks:** React, Next.js, Node.js, NestJS, FastAPI
-**Tools:** Git, Docker, VS Code, OpenTelemetry, GitHub Actions
-**Domains:** AI/ML, Agentic AI, Computer Vision, Data Processing, CLI Applications
+**Languages:** Python, Go, Rust, TypeScript, JavaScript, Lua, Bash
+**ML/AI:** scikit-learn, PyTorch, TensorFlow, NumPy, Pandas, OpenCV, Streamlit, Flask
+**Security:** YARA, PE analysis, JWT, lattice crypto, covert channels, 802.11 frames
+**Frameworks:** React, Next.js, Node.js, NestJS, FastAPI, OpenResty
+**Tools:** Git, Docker, Kubernetes, VS Code, OpenTelemetry, GitHub Actions, SQLite
+**Domains:** AI/ML, Agentic AI, Computer Vision, Data Processing, CLI Apps, Red Team, Blue Team
 
 ## Open Source Contributions
 
@@ -161,7 +180,11 @@ Every project ships with a README, requirements, tests (`pytest`), and a `python
 
 ## Let's Connect
 
-[![GitHub followers](https://img.shields.io/github/followers/YoinkingFishy?label=GitHub&style=social)](https://github.com/YoinkingFishy)
+[![GitHub followers](https://img.shields.io/github/followers/YoinkingFishy?label=Follow&style=social)](https://github.com/YoinkingFishy)
 [![Total stars](https://img.shields.io/github/stars/YoinkingFishy?label=Total%20stars&style=flat&color=2ea44f)](https://github.com/YoinkingFishy?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-wagdemehul%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wagdemehul@gmail.com)
 [![Organization](https://img.shields.io/badge/Organization-KnockDesk-0072ff?style=flat)](https://github.com/KnockDesk)
+
+---
+
+> **All 71 repos are public.** Every project is production-ready, tested, and documented. Built for learning, auditing, and extending — not for malicious use.
