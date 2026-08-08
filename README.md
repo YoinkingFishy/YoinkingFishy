@@ -3,7 +3,11 @@
 **AI/ML Engineer • Security Researcher • Open Source Builder**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+offline-first+AI%2FML+systems;Crafting+red-team+toolkits+that+teach;Shipping+71+production-ready+repos;Staying+curious.+Always." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1500&color=F72585&center=true&vCenter=true&width=700&lines=🚀+Building+offline-first+AI%2FML+systems;🔬+Crafting+red-team+toolkits+that+teach;📦+Shipping+71+production-ready+repos;🧠+Staying+curious.+Always.;⚡+Zero-fluff.+Maximum-impact." alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Python%2C+Go%2C+Rust%2C+TypeScript%2C+Lua;scikit-learn%2C+PyTorch%2C+OpenCV;YARA%2C+JWT%2C+Lattice+Crypto;React%2C+Docker%2C+K8s%2C+eBPF" alt="Tech stack" />
 </p>
 
 ---
