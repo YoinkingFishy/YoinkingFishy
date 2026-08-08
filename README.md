@@ -8,7 +8,7 @@
 
 ```mermaid
 mindmap
-  root((Mehul Wagde))
+  root((FOCUS))
     AI/ML
       Agentic Pipelines
       Computer Vision
