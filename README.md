@@ -27,14 +27,20 @@ mindmap
 
 ---
 
-## 🔗 Connect
+## 🔐 Cybersecurity Portfolio
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoinkingFishy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagdemehul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-wagde)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_server)
-[![KnockDesk](https://img.shields.io/badge/KnockDesk-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnockDesk)
+I've built **31 security tools** covering the full attack surface — from malware analysis to red-team simulations. All projects are fully tested, documented, and offline-first.
+
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| **[malware-analysis-platform](https://github.com/YoinkingFishy/malware-analysis-platform)** | `Python` `YARA` `PE` | Static malware analysis: file-type magic bytes, hashing, entropy/packing analysis, string extraction (base64/hex/Unicode flags), byte-level PE parsing, mini-YARA engine, SQLite case DB, HTTP dashboard |
+| **[payload-obfuscation-engine](https://github.com/YoinkingFishy/payload-obfuscation-engine)** | `Go` | Encode/obfuscate payloads: base64, hex, URL, UUID, ROT, string splitting — with a `python -m` CLI |
+| **[llm-prompt-injection-firewall](https://github.com/YoinkingFishy/llm-prompt-injection-firewall)** | `Python` `FastAPI` | Firewall/mitigation for LLM apps detecting 20+ injection techniques (ignore-previous, jailbreaks, encoding) |
+| **[zero-day-vulnerability-scanner](https://github.com/YoinkingFishy/zero-day-vulnerability-scanner)** | `Python` | Vulnerability scanner with 12 plugins, CVSS scoring, fuzzing, and report generation |
+| **[exploit-development-framework](https://github.com/YoinkingFishy/exploit-development-framework)** | `Python` `Go` | Framework for exploit dev: cyclic patterns, offset finding, payload generation, crash analysis |
+| **[exploit-development-framework](https://github.com/YoinkingFishy/exploit-development-framework)** | `Python` `Go` | Framework for exploit dev: cyclic patterns, offset finding, payload generation, crash analysis |
+
+> See all 31 security projects → [github.com/YoinkingFishy?tab=repositories&q=security](https://github.com/YoinkingFishy?tab=repositories)
 
 ---
 
@@ -51,19 +57,31 @@ mindmap
 
 ---
 
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoinkingFishy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagdemehul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-wagde)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_server)
+[![KnockDesk](https://img.shields.io/badge/KnockDesk-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnockDesk)
+
+---
+
 ## 📊 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=YoinkingFishy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoinkingFishy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 ![trophies](https://github-profile-trophy.vercel.app/?username=YoinkingFishy&theme=tokyonight&row=1&column=4&no-frame=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=YoinkingFishy&theme=tokyonight&hide_border=true)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=tokyonight&area=true&hide_border=true)
 
 ---
 
 ## 🏗️ What I Build
 
 ```
-71 repos  •  30 security tools  •  42 AI/ML projects  •  0 fluff
+71 repos  •  31 security tools  •  40 AI/ML projects  •  0 fluff
 ```
 
 | Domain | Count | Example |
@@ -71,7 +89,7 @@ mindmap
 | Agentic AI / LLM Apps | 11 | `multi-agentic-blog`, `doc-genius`, `synapse` |
 | Computer Vision / Medical | 8 | `deepfake-detection`, `brain-tumor-detection` |
 | Classification / Regression | 14 | `arrhythmia-detection`, `gold-price-prediction` |
-| Security / Red Team | 30 | `exploit-development-framework`, `supply-chain-attack-simulator` |
+| Security / Red Team | 31 | `exploit-development-framework`, `supply-chain-attack-simulator` |
 | Infra / Distributed | 8 | `dns-sinkhole`, `distributed-password-cracker` |
 
 **Every project:** `README` • `requirements`/`go.mod` • `pytest`/`go test` • `python -m` CLI • Offline-first
@@ -121,12 +139,6 @@ mindmap
 - **santifer/career-ops** — FAQ expansion, npm docs
 - **younisdev/dyvix-ui** — Typo fix
 - **parth-thakre/ai-data-center-research** — Font loading
-
----
-
-## 📈 Activity
-
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=YoinkingFishy&theme=tokyonight&area=true&hide_border=true)
 
 ---
 
