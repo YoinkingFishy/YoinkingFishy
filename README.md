@@ -3,7 +3,7 @@
 **AI/ML Engineer • Security Researcher • Open Source Builder**
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/295476017?v=4" width="120" height="120" style="border-radius:50%; border:3px solid #6366f1;" alt="Mehul Wagde"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+offline-first+AI%2FML+systems;Crafting+red-team+toolkits+that+teach;Shipping+71+production-ready+repos;Staying+curious.+Always." alt="Typing animation" />
 </p>
 
 ---
