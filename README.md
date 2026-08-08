@@ -2,14 +2,9 @@
 
 **AI/ML Engineer • Security Researcher • Open Source Builder**
 
-```
-███╗   ███╗ █████╗ ███████╗████████╗███████╗███╗   ██╗████████╗
-████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝████╗  ██║╚══██╔══╝
-██╔████╔██║███████║███████╗   ██║   █████╗  ██╔██╗ ██║   ██║
-██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔═══╝ ██║╚██╗██║   ██║
-██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║ ╚████║   ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝
-```
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/295476017?v=4" width="120" height="120" style="border-radius:50%; border:3px solid #6366f1;" alt="Mehul Wagde"/>
+</p>
 
 ---
 
@@ -17,7 +12,7 @@
 
 ```mermaid
 mindmap
-  root((Mehul Wagde))
+  root((Focus))
     AI/ML
       Agentic Pipelines
       Computer Vision
@@ -41,6 +36,8 @@ mindmap
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoinkingFishy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagdemehul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehul-wagde)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_server)
 [![KnockDesk](https://img.shields.io/badge/KnockDesk-0072FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KnockDesk)
 
 ---
